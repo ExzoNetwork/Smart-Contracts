@@ -12,8 +12,8 @@ npm install
 
 ### Compile
 
-bor-chain-id for Mainnet = 137
-bor-chain-id for TestnetV4 (Mumbai) = 80001
+bor-chain-id for Mainnet = 1229
+bor-chain-id for Testnet (Mumbai) = 2370
 
 ```
 npm run template:process -- --bor-chain-id <bor-chain-id>
@@ -28,7 +28,7 @@ npm run truffle:compile
 npm run testrpc
 ```
 
-- Start Matic side chain. Requires docker.
+- Start Exzo Network side chain. Requires docker.
 
 ```
 npm run bor:simulate
