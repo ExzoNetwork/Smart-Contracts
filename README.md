@@ -12,7 +12,7 @@ npm install
 ### Compile
 
 bor-chain-id for Mainnet = 1229
-bor-chain-id for Testnet (Mumbai) = 2370
+bor-chain-id for Testnet = 2370
 
 ```
 npm run template:process -- --bor-chain-id <bor-chain-id>
